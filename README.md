@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Gassan 👋 | Aspiring Bioinformatician
 
-<!--
-**gasa77/gasa77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Bioinformatics enthusiast passionate about turning biological data into insights. Currently building my foundation to apply for MSc in Bioinformatics.
 
-Here are some ideas to get you started:
+🧬 **Focused on:** Genomics, NGS Data Analysis, Python for Biology
+🎓 **Goal:** MSc in Bioinformatics - 2026/2027 Intake
+🔬 **Currently Learning:** DNA Sequencing, Sequence Alignment, Biopython
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+`Python` `Bash` `Linux` `Git` `Pandas` `Biopython`
+
+### 📚 Journey
+- Currently: 5-Month Intensive Bioinformatics Diploma
+- Next: Building 3 portfolio projects in Genomics
+
+---
+📫 **Let's Connect:** Open to research collaborations and learning opportunities!
